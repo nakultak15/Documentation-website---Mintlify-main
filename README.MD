@@ -11,7 +11,7 @@ Original Website: https://www.mintlify.com/
 ## 🌐 Live Demo
 
 🔗 Live Preview:  
-https://mintlify-web-clone.netlify.app/
+https://documentation-website-mintlify-main.netlify.app/
 
 ---
 
